@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "title": "AeroBuds Pro Wireless",
+      "category": "Electronics",
+      "price": 149.99,
+      "image": "",
+      "description": "Next-gen noise-cancelling wireless earbuds featuring spatial audio, custom fitting silicone tips, IPX4 sweat resistance, and a smart charging case with up to 36 hours of battery life.",
+      "rating": 4.8,
+      "reviews": 86
+    },
+    {
+      "id": "prod-2",
+      "title": "CyberPunk Tactile Keyboard",
+      "category": "Gaming",
+      "price": 189.5,
+      "image": "",
+      "description": "Hot-swappable tactile mechanical keyboard built with premium custom PBT keycaps, dual-mode wireless (2.4Ghz/Bluetooth), and customizable reactive RGB underglow.",
+      "rating": 4.9,
+      "reviews": 142
+    },
+    {
+      "id": "prod-3",
+      "title": "Minimalist Leather Backpack",
+      "category": "Apparel",
+      "price": 110,
+      "image": "",
+      "description": "Water-resistant, hand-crafted full-grain leather backpack. Features a dedicated 16-inch padded laptop sleeve, secret luggage pass-through, and modular organization compartments.",
+      "rating": 4.7,
+      "reviews": 54
+    },
+    {
+      "id": "prod-4",
+      "title": "GlowSphere Desk Lamp",
+      "category": "Home & Office",
+      "price": 75,
+      "image": "",
+      "description": "Elegant ambient RGB sphere desk light with dimmable natural light controls, smart home integration, and an integrated 15W Qi wireless fast charging base.",
+      "rating": 4.6,
+      "reviews": 98
+    },
+    {
+      "id": "prod-5",
+      "title": "Titanium EDC Bolt Pen",
+      "category": "Accessories",
+      "price": 45,
+      "image": "",
+      "description": "CNC-machined grade 5 titanium alloy bolt-action writing tool. Designed to last a lifetime, featuring a knurled grip, balanced weight distribution, and Schmidt ink refills.",
+      "rating": 4.5,
+      "reviews": 31
+    },
+    {
+      "id": "prod-6",
+      "title": "Ergonomic Memory Foam Cushion",
+      "category": "Home & Office",
+      "price": 59.99,
+      "image": "",
+      "description": "Premium orthopedic seat cushion crafted with supportive memory foam. Relieves tailbone pressure, promotes posture correction, and features a breathable mesh cover.",
+      "rating": 4.4,
+      "reviews": 120
+    },
+    {
+      "id": "prod-1781527868594",
+      "title": "Test Earphones",
+      "category": "Electronics",
+      "price": 25,
+      "image": "",
+      "description": "A backend tested product.",
+      "rating": 4.4,
+      "reviews": 133
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-9054",
+      "customerName": "Test Customer",
+      "customerEmail": "test@customer.com",
+      "deliveryAddress": "100 Main St",
+      "date": "15/6/2026, 6:22:20 pm",
+      "total": 25,
+      "items": [
+        {
+          "productId": "prod-1781527868594",
+          "title": "Test Earphones",
+          "quantity": 1,
+          "price": 25
+        }
+      ],
+      "status": "pending"
+    }
+  ]
+}
